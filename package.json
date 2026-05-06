@@ -1,0 +1,21 @@
+{
+  "name": "handle-growth-agent",
+  "version": "1.0.0",
+  "description": "Growth Agent for Handle - AI-Powered Sales Automation",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-next": "latest"
+  }
+}
