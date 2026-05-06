@@ -201,9 +201,9 @@ All supporting documents are available:
 
 ## Contact
 
-- **Email:** rene@handle.dev
-- **Twitter:** [@ReneHdzGtz](https://twitter.com/ReneHdzGtz)
-- **Slack:** #handle-growth
+- **website:** [@renehdz.xyz](https://renehdz.xyz)
+- **Twitter:** [@rene__hdz](https://twitter.com/rene__hdz)
+- **LinkedIn:** [@ReneHdz](https://www.linkedin.com/in/renehdzgtz/)
 
 ---
 
